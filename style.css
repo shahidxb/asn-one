@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+body{
+    margin:0;
+}
+.head-sec{
+    display: flex;
+    background-image: url("res/bg/sec-one-bg.png");
+    background-repeat: no-repeat;
+}
+span{
+    color:orange;
+}
+.head-div-one{
+    margin-top:88px;
+    margin:8%;
+}
+.head-div-one h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    font-style: normal;
+}
+.head-div-one h3{
+    color: #828282;
+}
+.head-div-one a{
+    color:white;
+    font-weight: 700;
+    font-style:inherit;
+
+    text-decoration: none;
+    background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+    padding: 10px 40px;
+    border-radius: 7px;
+}
+.model-one{
+    height:508.26px;
+    width:580.23px;
+}
+
