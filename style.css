@@ -3,9 +3,11 @@ body{
     margin:0;
 }
 .head-sec{
+    margin-top:5%;
     display: flex;
-    background-image: url("res/bg/sec-one-bg.png");
+    background-image: url("res/bg/bg-img.PNG");
     background-repeat: no-repeat;
+    background-position: -31% 97%;
 }
 span{
     color:orange;
@@ -19,21 +21,30 @@ span{
     font-size: 40px;
     font-weight: 700;
     font-style: normal;
+    margin-left:144px;
 }
 .head-div-one h3{
-    color: #828282;
+    background: -webkit-linear-gradient(45deg,#14657e,rgb(197, 122, 52));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left:26%;
+    margin-bottom: 2%;
+
 }
 .head-div-one a{
-    color:white;
+    color:rgb(248, 248, 248);
+    font-size: 15px;
     font-weight: 700;
     font-style:inherit;
-
+    margin-left: 26%;
     text-decoration: none;
     background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
-    padding: 10px 40px;
+    padding: 10px 178px;
+    margin-top:2%;
     border-radius: 7px;
 }
 .model-one{
+    margin-top:5%
     height:508.26px;
     width:580.23px;
 }
