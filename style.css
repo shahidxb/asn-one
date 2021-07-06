@@ -114,7 +114,9 @@ span{
     margin-top:9px;
     margin-left:13px;
     border-radius: 8px;
-    box-shadow: -2px 3px 11px#888888;
+    box-shadow: -2px 3px 11px #888888;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
 }
 .mid-div-two h3{
 
@@ -200,7 +202,7 @@ span{
     width:31%;
     border-radius: 6px;
     margin:auto;
-    box-shadow: 5px 3px 9px #ec14da;
+    box-shadow: 5px 3px 9px #888888;
 }
 .mid-4{
     margin-top:-7%
@@ -211,9 +213,29 @@ span{
 .mid-4 p{
     font-family: 'Montserrat', sans-serif;
     font-size: 18px;
-    background: -webkit-linear-gradient(60deg,#14657e,rgb(197, 122, 52));
+    background: -webkit-linear-gradient(60deg,#000102,rgb(197, 122, 52));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+.footer{
+    margin-top:2%;
+    background: url("res/shape/footer.png");
+    background-repeat: no-repeat;
+    padding: 40px;
+    border-radius: 6px;
+    box-shadow: 9px 1px 12px #888888;
 
-
+}
+.footer h1 {
+    background: -webkit-linear-gradient(60deg,#000102,rgb(197, 122, 52));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left:42%;
+}
+.footer p{
+    margin-left:30%;
+    background: -webkit-linear-gradient(60deg,#000102,rgb(197, 122, 52));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+   
 }
