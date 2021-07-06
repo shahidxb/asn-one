@@ -100,3 +100,120 @@ span{
     width:47%;   
     margin-bottom: 3%;
 }
+.mid-sec-2{
+    margin-top:2%;
+    display: flex;
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 9px 1px 12px #888888;
+}
+.mid-div-two{
+    margin-right:2%
+    width: 792px;
+    padding:2%;
+    margin-top:9px;
+    margin-left:13px;
+    border-radius: 8px;
+    box-shadow: -2px 3px 11px#888888;
+}
+.mid-div-two h3{
+
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    background: -webkit-linear-gradient(60deg,#14657e,rgb(197, 122, 52));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left:3%;
+    margin-bottom: 2%;
+}
+.mid-div-two h1{
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    font-style: normal;
+    color:orange;
+
+}
+.mid-div-two h2{
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    font-style: normal;
+    color:black;
+
+}
+.mid-div-two p{
+    background: -webkit-linear-gradient(60deg,#14657e,rgb(197, 122, 52));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.mid-div-two ul li{
+    color:brown;
+    font-weight: 400;
+    text-shadow: cadetblue;
+}
+.mid-img-2{
+        margin-top:5%;
+        margin-left:5%;
+}
+.mid-sec-three{
+
+    margin-top:2%;
+    display: flex;
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 9px 1px 12px #888888;
+
+}
+.mid-sec-three h1{
+    color: orange;
+    margin-left:378%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    font-style: normal;
+}
+.mid-sec-three h3{
+
+    background: -webkit-linear-gradient(60deg,#14657e,rgb(197, 122, 52));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align:center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    font-style: normal;
+    margin-top:7%;
+    margin-left:9%
+}
+.projects{
+    display: flex;
+    margin-top: 10%;
+}
+.img-cont{
+    height: 64%;
+    width: 96%;
+}
+.common{
+    width:31%;
+    border-radius: 6px;
+    margin:auto;
+    box-shadow: 5px 3px 9px #ec14da;
+}
+.mid-4{
+    margin-top:-7%
+}
+.mid-4 h2{
+    color: rebeccapurple;
+}
+.mid-4 p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    background: -webkit-linear-gradient(60deg,#14657e,rgb(197, 122, 52));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+}
