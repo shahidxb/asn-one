@@ -7,6 +7,7 @@ body{
     display: flex;
     background-image: url("res/bg/bg-img.PNG");
     background-repeat: no-repeat;
+    border-radius: 6px;
     background-position: -31% 97%;
     box-shadow: 9px 1px 12px #888888;
 }
@@ -40,7 +41,7 @@ span{
     margin-left: 26%;
     text-decoration: none;
     background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
-    padding: 10px 178px;
+    padding: 10px 170px;
     margin-top:2%;
     border-radius: 7px;
     box-shadow: 10px 10px 8px #888888;
@@ -52,3 +53,32 @@ span{
     box-shadow: 10px 10px 8px #888888;
 }
 
+.mid-sec{
+    margin-top:2%;
+    display: flex;
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 9px 1px 12px #888888;
+}
+.mid-div-one h1{
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    color:orange;
+
+}
+.mid-div-one h3{
+
+    background: -webkit-linear-gradient(45deg,#fdd909,rgb(50, 198, 235));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left:26%;
+    margin-bottom: 2%;
+}
+#about-img{
+    border-radius: 6px;
+    box-shadow: -1px -3px 17px #888888;
+}
