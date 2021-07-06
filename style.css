@@ -8,6 +8,7 @@ body{
     background-image: url("res/bg/bg-img.PNG");
     background-repeat: no-repeat;
     background-position: -31% 97%;
+    box-shadow: 9px 1px 12px #888888;
 }
 span{
     color:orange;
@@ -42,10 +43,12 @@ span{
     padding: 10px 178px;
     margin-top:2%;
     border-radius: 7px;
+    box-shadow: 10px 10px 8px #888888;
 }
 .model-one{
     margin-top:5%
     height:508.26px;
     width:580.23px;
+    box-shadow: 10px 10px 8px #888888;
 }
 
