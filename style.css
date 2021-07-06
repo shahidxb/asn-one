@@ -263,10 +263,4 @@ span{
     background-color:#DDDDDD;
     color:black;
   }
-  .topnav a.active {
-    background-color:#dfdb13;
-    color:white;
-  }
-  .topnav .icon {
-    display:none;
-  }
+
