@@ -3,7 +3,7 @@ body{
     margin:0;
 }
 .head-sec{
-    margin-top:5%;
+    margin-top:2%;
     display: flex;
     background-image: url("res/bg/bg-img.PNG");
     background-repeat: no-repeat;
@@ -223,7 +223,7 @@ span{
     background-repeat: no-repeat;
     padding: 40px;
     border-radius: 6px;
-    box-shadow: 9px 1px 12px #888888;
+    box-shadow: 9px 1px 12px #3f6ef0;
 
 }
 .footer h1 {
@@ -239,3 +239,34 @@ span{
     -webkit-text-fill-color: transparent;
    
 }
+.topnav {
+    background-color:#333333;
+    overflow:hidden;
+    position: fixed; 
+    top: 0; 
+    width: 100%;
+  }
+  .topnav a {
+    font-family: 'Montserrat', sans-serif;
+    background: -webkit-linear-gradient(60deg,#fce066,rgb(197, 122, 52));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+    display:block;
+    float:left;
+    font-size:17px;
+    padding:14px 16px;
+    text-align:center;
+    text-decoration:none;
+  }
+  .topnav a:hover {
+    background-color:#DDDDDD;
+    color:black;
+  }
+  .topnav a.active {
+    background-color:#dfdb13;
+    color:white;
+  }
+  .topnav .icon {
+    display:none;
+  }
