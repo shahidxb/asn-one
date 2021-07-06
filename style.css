@@ -33,7 +33,7 @@ span{
     margin-bottom: 2%;
 
 }
-.head-div-one a{
+.anchor{
     color:rgb(248, 248, 248);
     font-size: 15px;
     font-weight: 700;
@@ -56,9 +56,18 @@ span{
 .mid-sec{
     margin-top:2%;
     display: flex;
-    background-color: white;
+    background: url("res/bg/sec-one-bg.png");
+    background-repeat: no-repeat;
     border-radius: 6px;
     box-shadow: 9px 1px 12px #888888;
+}
+.mid-div-one{
+    
+    width: 792px;
+    margin-top:20px;
+    margin-left:38px;
+    border-radius: 8px;
+    box-shadow: -2px 3px 11px#888888;
 }
 .mid-div-one h1{
 
@@ -72,13 +81,22 @@ span{
 }
 .mid-div-one h3{
 
-    background: -webkit-linear-gradient(45deg,#fdd909,rgb(50, 198, 235));
+    background: -webkit-linear-gradient(60deg,#14657e,rgb(197, 122, 52));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    margin-left:26%;
+    margin-left:3%;
     margin-bottom: 2%;
 }
 #about-img{
-    border-radius: 6px;
+    height:508.26px;
+    width:580.23px;
+    margin-top:20px;
+    border-radius: 8px;
     box-shadow: -1px -3px 17px #888888;
+}
+#add-img{
+    margin-left:26%;
+    height: 41%;
+    width:47%;   
+    margin-bottom: 3%;
 }
